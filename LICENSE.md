@@ -1,5 +1,5 @@
                     DDXCN PRIVATE LICENSE
-                       Version 1, 5 March 20324
+                       Version 1, 5 March 2024
 
  Copyright (C) D-CODE-INC, Inc. <https://d-code-inc.w3spaces.con>
  Everyone is NOT permitted to copy and distribute verbatim copies
