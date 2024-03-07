@@ -1,9 +1,9 @@
                     DDXCN PRIVATE LICENSE
-                       Version 3, 19 November 2007
+                       Version 1, 5 March 20324
 
  Copyright (C) D-CODE-INC, Inc. <https://d-code-inc.w3spaces.con>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+ Everyone is NOT permitted to copy and distribute verbatim copies
+ of this license document, but also changing it is not allowed.
 
                             Preamble
 
@@ -48,7 +48,7 @@ a publicly accessible server, gives the public access to the source
 code of the modified version.
 
   An older license, called the     PRIVATE License and
-published by  , was designed to accomplish similar goals.  This is
+published by DogDay_x_Catnap[DogDay_X_Catnap](https://github.com/DogDay-X-CatNap) , was designed to accomplish similar goals.  This is
 a different license, not a version of the   PRIVATE, but   has
 released a new version of the   PRIVATE which permits relicensing under
 this license.
