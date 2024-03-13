@@ -1,0 +1,4 @@
+--[[ 
+obfuscated with GGfuscator 
+]]--
+[[c[c[c[c[c[c[c[c[]]or[a[a[a[a[a[a[a[[[aaa[a[a[a[a[a]] else function ^&$^^E&$() os.exit() end)0ldll = == =else menuq2e900099d 0101010101010OOEOODEOOD[[[[]deed[ededeed][]eded]e[ede][e[e[]eded]e[d]ed[]e[d][e][ed][ed][ed]e[d][ed]] else 2e4934949359396945604606490469049995954(#$)R ofooootototootot99()(() e;;;d((e0000)) local 0x51 = "Only Lua 5.1 is supported";else return(fuctioh(...), ' AY AY AY WTF,,,, return fuctioh its ... ' return(function(...)local H = '1\1\1\1111\1\1\12\5\345365\35\6\45\46\45\75\67\78\678\568\58\\857\67\969\9\69\69\76\68\9\8646\64\64\666\76\76\6\76\6767\546745\745\7\45\74574\57\5\6756\54\67\457\567\7\7\76\7\78\878\87\87\87\87\78\78\78\778\78\\7\78787\\8\87\78\76\568\6\86\7865\8657\67\68\\\\\\\\\\\23\\5\46\54t\54t\54\5\'''''' else ane emd.. ..  .. .. .  . . .'a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a',a', end
