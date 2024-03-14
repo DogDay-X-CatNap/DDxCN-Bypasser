@@ -1,3 +1,8 @@
+# About this script :
+This respitory will provide servers for older VERSIONs of blockman go. Which means you can bypass hacks
+
+
+
 # Version :
 --> 1.4
 # Contributers :
